@@ -1,1 +1,14 @@
 /books
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.db
+.pytest_cache/
+.venv/
+venv/
+ENV/
